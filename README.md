@@ -150,6 +150,8 @@ To continue beyond Pestilence, we decided to retain the complete obfuscation of 
 
 ## 📋 Prerequisites
 
+This virus has been developed and tested on `Debian 6.1.0-18-amd64`. On other systems, some undefined behavior may occur or certain features may not work as intended.
+
 - `make`
 - `nasm`
 - `ld`
