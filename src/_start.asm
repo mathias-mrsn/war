@@ -2520,6 +2520,7 @@ procdir:    db "/proc/", 0
 status:     db "/status", 0
 
 procs: 
+proc7:      db "top", 0
 proc6:      db "dpkg", 0
 proc5:      db "apt", 0
 proc4:      db "ps", 0
